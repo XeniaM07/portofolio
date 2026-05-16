@@ -1,0 +1,35 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="600" fill="#0D5C69"/>
+
+  <!-- Dark Purple Rect -->
+  <rect x="250" y="50" width="500" height="500" fill="#5A2A45"/>
+
+  <!-- Red Top Circle -->
+  <circle cx="690" cy="80" r="60" fill="#FF0D0D"/>
+
+  <!-- Left Yellow Circle -->
+  <circle cx="150" cy="150" r="100" fill="#FFB732"/>
+
+  <!-- Left Cyan Support Line -->
+  <rect x="135" y="250" width="30" height="150" fill="#00A6C9"/>
+
+  <!-- Central Triangles -->
+  <!-- Left Triangle -->
+  <path d="M 350 500 L 450 150 L 550 500 Z" fill="#00A6C9"/>
+
+  <!-- Right Triangle -->
+  <path d="M 500 550 L 650 200 L 800 550 Z" fill="#FF8F0C"/>
+
+  <!-- Red Small Triangle -->
+  <path d="M 550 600 L 600 500 L 650 600 Z" fill="#FF0D0D"/>
+
+  <!-- Red Horizontal Stripe -->
+  <rect x="0" y="300" width="800" height="50" fill="#FF0D0D"/>
+
+  <!-- Right Cyan Rectangle -->
+  <rect x="720" y="300" width="50" height="200" fill="#00A6C9"/>
+
+  <!-- Cyan Triangle (Right Support) -->
+  <path d="M 720 300 L 770 500 L 720 500 Z" fill="#00A6C9"/>
+</svg>
